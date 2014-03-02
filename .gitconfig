@@ -1,0 +1,11 @@
+[user]
+	name = Oliver Eggert
+	email = mail@olivereggert.de
+[core]
+	editor = mvim
+[merge]
+	tool = vimdiff
+[credential]
+	helper = osxkeychain
+[push]
+	default = matching

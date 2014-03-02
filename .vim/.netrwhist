@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/oliver/.oh-my-zsh/custom/example'
+let g:netrw_dirhist_2='/Users/oliver/Debian/Downloads/ft6/.git'
+let g:netrw_dirhist_3='/Users/oliver/Library/texmf/tex/latex/mmd'
+let g:netrw_dirhist_4='/Users/oliver/.wireshark'
+let g:netrw_dirhist_5='/Users/oliver/.pip'
+let g:netrw_dirhist_6='/Users/oliver/.zsh'
+let g:netrw_dirhist_7='/Users/oliver/.oh-my-zsh'
+let g:netrw_dirhist_8='/Users/oliver/.zsh'

@@ -1,0 +1,9 @@
+anotherdark 		-> nice comments, line numbers too bright
+molokai				-> comments not really readable
+clarity				-> too blue
+darkspectrum		-> too much contrast
+desertex			-> quite alright
+earendel
+moria
+summerfruit256
+wombat
