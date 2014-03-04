@@ -46,4 +46,4 @@ source ~/dotfiles/aliases
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
 # for syntax-highlighting:
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+plugins=(zsh-syntax-highlighting)
